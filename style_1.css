@@ -1,0 +1,77 @@
+header{
+	background: url("header.png");
+	background-size: cover;
+	text-align: center;
+	padding-top: 10px;
+}
+
+header img{
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+    border-radius: 20px;
+}
+
+ul{
+	padding: 10px;
+      background: black;
+}
+
+h1{
+	color: white;
+	font-size: 50px;
+}
+
+li{
+	font-size: 20px;
+	display: inline;
+	padding: 0px 75px 0px 50px;
+}
+
+a{
+	color: white;
+}
+
+body{
+	background: linear-gradient(#E0EAFC, #CFDEF3);
+}
+
+.main_para{
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.img_panel p{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 20px;
+
+} 
+
+
+
+#contact_button a{
+	position: relative;
+	
+}
+
+#contact_button a:hover{
+	background-color: green;
+	
+}
+
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+	text-align: left;
+}
+
+.img_show{
+	text-align: center;
+	}
+
+#slide{
+	height: 300px;
+	width:300px;
+}
