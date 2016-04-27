@@ -1,0 +1,90 @@
+body{
+	background: #D3D3D3;
+}
+
+.login{
+	
+	height: 70px;
+	text-align: right;
+	padding-top:15px;
+}
+
+
+
+header{
+	background: url("bk.jpg");
+	background-size: cover;
+}
+
+.li_of_header{
+	display: inline;
+	border: 2px solid #4CAF50;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.ul_of_header{
+	margin-right: 10px;
+	
+}	
+.login li:hover{
+	background-color:#4CAF50; 
+}
+
+.head{
+	text-align: center;
+	color: white;
+	height: 290px;
+}
+
+img{
+	height: 150px;
+}
+
+h1{
+	font-family: 'Federant', cursive;
+}
+
+.nav_top{
+	height: 100px;
+	background: black;
+	padding: 0;
+	margin: 0;
+}
+
+.nav_top{
+	padding-top: 10px;
+	height: 50px;
+	text-align: center;
+}
+
+.li_of_nav_top{
+	font-size: 20px;
+	display: inline;
+	padding: 0px 75px 0px 50px;
+	border:none;
+	color: white;
+	margin: none;
+
+}
+
+.a_of_nav_top{
+	color: white;
+	display: inline;
+}
+
+.li_of_nav_top a:hover{
+	background: red;
+}	
+
+.nav_left{
+	height: 500px;
+	width: 200px;
+	border: 2px solid black;
+	text-align: center;
+}
